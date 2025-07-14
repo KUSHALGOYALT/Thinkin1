@@ -5,7 +5,8 @@
 **ThinkIN** is an AI-powered multimodal educational assistant designed to enhance classroom learning through real-time student interaction, engagement monitoring, performance insights, and teacher support tools. Leveraging Intel® OpenVINO™ toolkit, Hugging Face Transformers, and state-of-the-art speech and vision models, ThinkIN transforms classrooms into dynamic smart learning environments.
 
 ---
-
+## Demo Videos https://drive.google.com/drive/folders/11NhjXM34y0WmCrm8l4JyTekqYvQwnalV
+---
 ## 🧠 Features
 
 | Module | Description |
